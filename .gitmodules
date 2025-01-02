@@ -1,3 +1,0 @@
-[submodule "FileEncryption"]
-	path = FileEncryption
-	url = .\\FileEncryption\\
